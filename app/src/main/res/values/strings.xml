@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Sunshine changed</string>
     <string name="hello_world">Hello World!</string>
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">changed from another instance</string>
     <string name="action_settings">Settings</string>
 </resources>
